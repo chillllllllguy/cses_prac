@@ -1,3 +1,4 @@
+//做dfs先找到Rmax兩端點 兩端分別再做dfs
 #include <bits/stdc++.h>
 using namespace std;
 vector<int> vec[200005];
